@@ -6,8 +6,6 @@
 
 ---
 
-This repository serves as the official public statement regarding the MitchIvin XP portfolio project.
-
 ## Where is the Source Code?
 
 You might be here looking for the source code. Unfortunately, due to repeated instances of this project being stolen and misrepresented in a broken, incomplete state, I've decided to keep the code for this version private for now.
