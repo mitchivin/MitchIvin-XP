@@ -24,7 +24,7 @@ All graphical assets, icons, sounds, and any other trademarked materials related
 
 ## License and Terms of Use
 
-**Copyright (c) 2024 Mitch Ivin**
+**Copyright (c) 2025 Mitch Ivin**
 
 The original source code and unique implementation for this project are proprietary. While I encourage learning from the live site, please respect the following terms:
 
