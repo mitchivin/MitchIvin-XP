@@ -1,5 +1,7 @@
 # MitchIvin XP
 
+<img width="1918" height="1079" alt="Screenshot 2025-12-31 113357" src="https://github.com/user-attachments/assets/887abf96-f5c9-47d8-a680-612ecc7138dc" />
+
 ---
 
 **Live Project:** [https://mitchivin.com/](https://mitchivin.com/)
